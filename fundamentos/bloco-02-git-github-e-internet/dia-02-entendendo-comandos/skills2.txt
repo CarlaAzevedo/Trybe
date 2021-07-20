@@ -9,4 +9,3 @@ Tela
 HTML
 CSS
 JS
-REACT
