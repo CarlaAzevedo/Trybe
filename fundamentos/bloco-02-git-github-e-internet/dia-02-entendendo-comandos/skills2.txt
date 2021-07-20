@@ -1,0 +1,11 @@
+Internet
+Unix  
+Bash
+Cabo
+Mouse
+Conector
+Teclado
+Tela
+HTML
+CSS
+
