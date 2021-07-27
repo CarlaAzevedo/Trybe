@@ -1,0 +1,37 @@
+<style>
+        h2, h3 {
+            color: brown;
+            font-size: 2em;
+        }
+        body {
+            background-color: rgb(355,410,170);
+            font-size: 25x;
+        }
+        p {
+            font-family: monospace,
+        
+        }
+        #elias {
+            background-color: rgb(168,168,168)
+        }
+        #gui {
+            background-color: rgb(168,168,168)
+        } 
+        #leo {
+            background-color: rgb(168,168,168)
+        }
+        #vitor{
+            background-color: rgb(168,168,168)
+        }
+
+        .lista-ord {
+            background-color:rgb(135,206,235);
+            color: lemonchiffon;
+            font-weight: bold;
+            font-style: italic;
+            line-height: 30px;
+            text-align:center;
+            text-decoration:underline;
+        }
+
+    </style>
